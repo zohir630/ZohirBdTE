@@ -1,0 +1,3 @@
+- uses: actions/checkout@v4
+- name: Unzip project
+  run: unzip -q BDTelecom.zip
